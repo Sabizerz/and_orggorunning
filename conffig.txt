@@ -1,0 +1,5 @@
+{ 
+    "g": "Kai", 
+    "mf": "https://bundle.zungzangzungzezzzz.com/bundle/android/1.0.6/remote-assets/", 
+    "p": "remote-assets" 
+}
